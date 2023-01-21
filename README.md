@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá pessoas, tudo bom? Eu sou Marina Oliveira!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=2000&color=DEB887&center=true&vCenter=true&width=1000&lines=Atualmente+fa%C3%A7o+curso+T%C3%A9cnico+em+TI+na+Escola+Tecnica+de+Ceil%C3%A2ndia+(ETC);Trabalho+como+volunt%C3%A1ria+na+ADSSN%2C+sempre+de+maneira+diversificada+;Aficionada+por+tecnologia%2C+focada+em+aprofundar+meus+conhecimentos+em+GNU%2FLinux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=DEB887&center=true&vCenter=true&width=1000&lines=Atualmente+fa%C3%A7o+curso+T%C3%A9cnico+em+TI+na+Escola+Tecnica+de+Ceil%C3%A2ndia+(ETC);Trabalho+como+volunt%C3%A1ria+na+ADSSN%2C+sempre+de+maneira+diversificada+;Aficionada+por+tecnologia%2C+focada+em+aprofundar+meus+conhecimentos+em+GNU%2FLinux" alt="Typing SVG" /></a>
 
 
 <div align="center"><br>
