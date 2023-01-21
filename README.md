@@ -39,10 +39,16 @@
 
 ***
 <div align="center">
-  <a target="_blank" href="linkedin.com/in/marina-oliver-bri-0413938/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.instagram.com/dmary_1100/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://t.me/Mary_musa" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/marina-oliver-bri-0413938/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:marinaoliverbri674@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/dmary_1100/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://t.me/Mary_musa" target="_blank" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 <h4 align="center"> Acredito que o conhecimento é uma das ferramentas mais poderosas do mundo e não me limito a busca-la e transmiti-la! </h4>
+
+<div align="center"><br>
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Marynamore/count.svg" /></p><br>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=120&section=footer">
