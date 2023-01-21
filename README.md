@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=120&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=90&section=header">
 
 <h1 align="center">✨ Olá pessoas, tudo bom? Eu sou Marina Oliveira! ✨</h1>
 
@@ -41,4 +41,4 @@
   <p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Marynamore/count.svg" /></p><br>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=120&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A460&height=90&section=footer">
