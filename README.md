@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ Olá pessoas, tudo bom? Eu sou Marina Oliveira! ✨</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=DEB887&center=true&vCenter=true&width=1000&lines=Atualmente+fa%C3%A7o+curso+T%C3%A9cnico+em+TI+na+Escola+Tecnica+de+Ceil%C3%A2ndia+(ETC);Trabalho+como+volunt%C3%A1ria+na+ADSSN%2C+sempre+de+maneira+diversificada+;Aficionada+por+tecnologia%2C+focada+em+aprofundar+meus+conhecimentos+em+GNU%2FLinux" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=ddc6a498&center=true&vCenter=true&width=1000&lines=Atualmente+fa%C3%A7o+curso+T%C3%A9cnico+em+TI+na+Escola+Tecnica+de+Ceil%C3%A2ndia+(ETC);Trabalho+como+volunt%C3%A1ria+na+ADSSN%2C+sempre+de+maneira+diversificada+;Aficionada+por+tecnologia%2C+focada+em+aprofundar+meus+conhecimentos+em+GNU%2FLinux" alt="Typing SVG" /></a>
 <br><br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Marynamore&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -41,4 +41,4 @@
   <p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Marynamore/count.svg" /></p><br>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DDC6A4&height=100&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=846D62&height=100&section=footer">
