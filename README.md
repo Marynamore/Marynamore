@@ -17,7 +17,7 @@
 </div>
 <br><br>
 
-## :woman_technologist: Estudando no momento
+## :woman_technologist: Hards Skills
 <div style="display; inline_block"><br>
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
